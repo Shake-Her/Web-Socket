@@ -1,0 +1,15 @@
+{
+  "name": "web-socket",
+  "version": "1.0.0",
+  "description": "**While Creating a connection where we need a bidirectional connection between client and server eg: games,Chat app etc,This is a TCP connection! concept**",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shake-Her",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.0"
+  }
+}
